@@ -40,5 +40,6 @@ grep command
 --------------------
 grep "word" file.txt
 -i to ignore case
+-n print line number
 
 
