@@ -38,7 +38,7 @@ esc - move to command mode
 
 grep command
 --------------------
-grep "word" file.txt
+grep "word" file1.txt file2.txt file3.txt or grep "word" *
 -i to ignore case
 -n print line number
 
