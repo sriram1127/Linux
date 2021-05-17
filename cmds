@@ -28,3 +28,12 @@ To search and replace
 --------------------
 https://www.youtube.com/watch?v=DikkZpayGeY&ab_channel=HWDsouthCODEHWDsouthCODE
 :%s/oldword/newword
+
+vi command
+--------------------
+i - move to insert mode
+u - to undo the last change
+esc - move to command mode
+:wq - save and quit
+
+
