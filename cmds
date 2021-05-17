@@ -44,4 +44,4 @@ grep -nv "word" *
 -n print line number
 -v invert match
 
-
+grep --help
