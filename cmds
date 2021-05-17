@@ -14,3 +14,10 @@ rm -r - remove diretory will files
 man - manual command
 clear 
 ln -s - to create a link for files
+
+
+To search in a file
+vi filename
+/search keyword
+n - to move to the next word
+esc - to search another word
