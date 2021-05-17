@@ -36,4 +36,8 @@ u - to undo the last change
 esc - move to command mode
 :wq - save and quit
 
+grep command
+--------------------
+
+
 
