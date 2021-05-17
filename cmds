@@ -39,5 +39,6 @@ esc - move to command mode
 grep command
 --------------------
 grep "word" file.txt
+-i to ignore case
 
 
