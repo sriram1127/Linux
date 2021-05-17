@@ -17,7 +17,14 @@ ln -s - to create a link for files
 
 
 To search in a file
+-------------------
 vi filename
 /search keyword
 n - to move to the next word
 esc - to search another word
+
+
+To search and replace 
+--------------------
+https://www.youtube.com/watch?v=DikkZpayGeY&ab_channel=HWDsouthCODEHWDsouthCODE
+:%s/oldword/newword
