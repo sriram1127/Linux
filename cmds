@@ -12,3 +12,5 @@ mkdir - make directory
 rmditr - remove empty directory
 rm -r - remove diretory will files
 man - manual command
+clear 
+ln -s - to create a link for files
